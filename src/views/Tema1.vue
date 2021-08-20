@@ -3,12 +3,12 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-principal
+    .titulo-principal(data-aos="flip-down")
       .titulo-principal__numero
         span 1
       h1 Inhumación de PNI y PINR
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-up")
       .col-md-10
         p.mb-4 La inhumación de personas no identificadas (PNI) y personas identificadas no reclamadas (PINR) se trata de un servicio prestado por los cementerios, que corresponde a la acción de enterrar o depositar cadáveres en bóvedas o tumbas, los restos óseos o partes humanas a partir de protocolos que se diferencian de un proceso de inhumación para otros tipos de personas, puede que se esté preguntando ¿qué es la inhumación?, la respuesta es:
 
@@ -25,11 +25,11 @@
 
         p.mb-4 Siendo esto así, son elementos relacionados con la inhumación de las personas no identificadas (PNI) y personas identificadas no reclamadas (PINR) la disposición de un área de inhumación, la necesidad de realizar una inhumación individualizada, la disposición en cementerios públicos o mixtos, la marcación de tumbas, bóvedas y la custodia de los elementos asociados al cuerpo o a los restos humanos. A continuación, se invita a valorar cada uno de ellos para que pueda aplicarlos en su contexto de acción.
     
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido.mb-5(data-aos="fade-left")
       .py-4.py-md-5(titulo="Disposición de un área de inhumación" :icono="require('@/assets/curso/tema1/02.svg')")
         .row.justify-content-center
           h5 Disposición de un área de inhumación
-          p De acuerdo con la Resolución 5194 de 2010 del Ministerio de Protección Social el área donde debe ser inhumado, conservado y custodiado el cuerpo o los restos humanos de las personas no identificadas o identificadas no reclamadas será dispuesto por la alcaldía del municipio o distrito donde se halla el cadáver, teniendo en cuenta dos elementos: 
+          p De acuerdo con la #[strong Resolución 5194 de 2010 del Ministerio de Protección Social] el área donde debe ser inhumado, conservado y custodiado el cuerpo o los restos humanos de las personas no identificadas o identificadas no reclamadas será dispuesto por la alcaldía del municipio o distrito donde se halla el cadáver, teniendo en cuenta dos elementos: 
           .col-md-5.mb-4.mb-md-0
             .cajon.color-primario.p-4.h-100
               p.mb-4 (i) En los cementerios se deben destinar bóvedas para personas no identificadas o identificadas no reclamadas.
@@ -41,11 +41,11 @@
               figure
                 img.w-50.mx-auto(src='@/assets/curso/tema1/08.svg', alt='')
 
-      .py-4.py-md-5(titulo="Individualización" :icono="require('@/assets/curso/tema1/03.svg')")
+      .py-4.py-md-5(titulo="Individualización" :icono="require('@/assets/curso/tema1/03.svg')")(data-aos="fade")
         .row
           .col-md-8.mb-4.mb-md-0
             h4 Individualización
-            p De manera adicional a las condiciones descritas para la inhumación de cualquier otro tipo de persona, cuando se trate de restos óseos humanos y cadáveres de personas no identificadas o personas identificadas no reclamadas, la inhumación debe ser individualizada para garantizar con ello su ubicación, custodia, recuperación y posterior individualización, tal y como lo dispone la Resolución 5194 de 2010 y la Ley 1408 de 2010.
+            p De manera adicional a las condiciones descritas para la inhumación de cualquier otro tipo de persona, cuando se trate de restos óseos humanos y cadáveres de personas no identificadas o personas identificadas no reclamadas, la inhumación debe ser individualizada para garantizar con ello su ubicación, custodia, recuperación y posterior individualización, tal y como lo dispone la #[strong Resolución 5194 de 2010 y la Ley 1408 de 2010].
             p Para mantener esa individualización existe una prohibición frente a las PNI y PINR de una inhumación en osarios o fosas comunes, buscando con ello que pueda lograrse la identificación o no se pierda la identificación de esas personas.
             
           .col-md-4
@@ -100,7 +100,7 @@
             .cajon.color-primario.p-4.h-100
               p.mb-0 Recuerde, si el cuerpo llega sin estos documentos, se debe reportar inmediatamente la situación a la Fiscalía, a la Policía Nacional, a la Procuraduría y al Personero.
     
-    separador
+    separador(data-aos="fade")
   
 </template>
 

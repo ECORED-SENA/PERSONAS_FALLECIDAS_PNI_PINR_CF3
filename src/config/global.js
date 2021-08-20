@@ -85,47 +85,50 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Decreto 303 de 2015. [Ministerio del Interior]. Por el cual se reglamenta la Ley 1408 de 2010. Febrero 20 de 2015.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.mininterior.gov.co/la-institucion/normatividad/decreto-303-de-2015',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Ley 9 de 1979. Por la cual se dictan medidas sanitarias. Julio 16 de 1979. DO. No. 35308',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_0009_1979.html',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Ley 1408 de 2010. Por la cual se rinde homenaje a las víctimas del delito de desaparición forzada y se dictan medidas para su localización e identificación. Agosto 20 de 2010. DO No. 47.807',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1408_2010.html',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'MediaLab Eafit. (2012). Fuera de foco: episodio 8: inhumación y exhumación de cuerpos [video]. YouTube:',
+      link: 'https://www.youtube.com/watch?v=NrRgTQWahhA',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Ministerio del Interior de Colombia. (2018). Guía normativa para el fortalecimiento de la gestión de los cementerios en Colombia. MinInterior.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://derechoshumanos.mininterior.gov.co/sites/default/files/guia_normativa-2018_0.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Resolución 01164 de 2002 [Ministerio del Medio Ambiente]. Por la cual se adopta el Manual de Procedimientos para la Gestión Integral de los residuos hospitalarios y similares.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.ins.gov.co/Normatividad/Resoluciones/RESOLUCION%201164%20DE%202002.pdf',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Resolución 5194 de 2010. [Ministerio de la Protección Social]. Por la cual se reglamenta la prestación de los servicios de cementerios, inhumación, exhumación y cremación de cadáveres. Diciembre 10 de 2010.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://tibasosaboyaca.micolombiadigital.gov.co/sites/tibasosaboyaca/content/files/000024/1155_resolucion-no-5194-de-16-de-diciembre-de-2010.pdf',
+    },
+    {
+      referencia:
+        'Resolución 2184 de 2019. [Ministerio de Ambiente y Desarrollo Sostenible]. Por la cual se modifica la resolución 668 de 2016 sobre el uso racional de bolsas plásticas y se adoptan otras disposiciones. Diciembre 26 de 2019.',
+      link:
+        'https://www.minambiente.gov.co/images/normativa/app/resoluciones/res%202184%202019%20colores%20bolsas-41.pdf',
     },
   ],
   glosario: [
@@ -193,7 +196,33 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Alejandro Carmona Escobar',
+        cargo: 'Instructor experto temático',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Adriana María Bustamante Cataño',
+        cargo: 'Profesional de Diseño y producción curricular',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
+        nombre: 'Cristian Metaute Medina',
+        cargo: 'Diseñador instrucciona',
+        centro: 'Grupo de gestión curricular ECORED',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Centro de Gestión Industrial - Distrito Capital',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -201,43 +230,37 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Anllelo Andres Reina Montañez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },

@@ -3,16 +3,16 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
-    .titulo-principal
+    .titulo-principal(data-aos="flip-down")
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
     
-    .cajon-b.color-acento-contenido.p-3.mb-5
-      p.mb-0 Apreciado aprendiz bienvenido a esta experiencia de aprendizaje relacionada con el proceso de gestión de cementerios y que pretende ayudarle a apropiar elementos básicos para la inhumación y exhumación de personas. Para más información se sugiere revisar el siguiente recurso de aprendizaje que le dará un contexto inicial para su aprendizaje.
+    .cajon-b.color-acento-contenido.p-3.mb-5(data-aos="fade-up")
+      p.mb-0 Apreciado aprendiz, bienvenido a esta experiencia de aprendizaje enfocada en una serie de recomendaciones específicas que se deben tener en cuenta en la gestión de los cementerios para garantizar una adecuada conservación y custodia de los cuerpos o los restos de personas no identificadas (PNI) e identificadas no reclamadas (PINR). Observe el siguiente recurso de aprendizaje antes de iniciar el componente de formación.
     
-    .tarjeta.tarjeta--gris.p-4.PB01.mb-5
+    .tarjeta.tarjeta--gris.p-4.PB01.mb-5(data-aos="fade-left")
       SlyderA
         .row.justify-content-center
           .col-md-10
@@ -91,7 +91,7 @@
                 figure
                   img(src='@/assets/curso/intro/09.svg', alt='')
 
-    separador
+    separador(data-aos="fade")
 
 </template>
 

@@ -3,18 +3,19 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    .titulo-principal
+    .titulo-principal(data-aos="flip-down")
       .titulo-principal__numero
         span 2
       h1 Exhumación de PNI y PINR
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-up")
       .col-md-10
         .bloque-texto-a.color-primario.modBef.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8.mb-4.mb-lg-0
               .bloque-texto-a__texto.p-4
-                p.mb-0 La palabra inhumación proviene de las raíces del latín in y humus que significa adentro y tierra, esto es, enterrar o disponer dentro de la tierra. Así, conforme a lo dispuesto en la Resolución del Ministerio de Protección Social 5194 de 2010 inhumar supone la acción de enterrar o depositar en los cementerios cadáveres, restos óseos y partes humanas, mientras el área de inhumación ya es más particular, como aquella en la cual se realiza la disposición final de los cadáveres no identificados o identificados y no reclamados o sus restos óseos o restos humanos.
+                p.mb-4 Según la #[strong Resolución 5194 de 2010] define exhumar como la acción de extraer cadáveres, restos humanos y restos óseos del lugar de inhumación, previa orden judicial o administrativa para los efectos funerarios o legales.
+                p.mb-0 Entonces, adicional a lo anterior, la exhumación de personas no identificadas (PNI) y personas identificadas no reclamadas (PINR) se trata de un servicio prestado por los cementerios que consiste en extraer de bóvedas o tumbas los cadáveres, restos humanos y restos óseos de personas no identificadas e identificadas no reclamadas; con una serie de consideraciones adicionales y particulares por tratarse de este tipo de personas. 
             .col-lg-4
               figure
                 img(src='@/assets/curso/tema2/01.svg', alt='')
@@ -30,7 +31,7 @@
 
         p Entre las acciones que se deben tener en cuenta en el proceso de la exhumación de PNI y PINR se encuentra el tiempo de permanencia en los cementerios de las personas no identificadas e identificadas no reclamadas, la prohibición de la cremación y la autorización. A continuación, se ampliará esta información en el siguiente recurso de aprendizaje.
     
-    SlyderE(indicadores="derecha")
+    SlyderE(indicadores="derecha")(data-aos="fade-left")
       .row
         .col-md-5.mb-4.mb-md-0
           h4 La permanencia
@@ -66,7 +67,7 @@
           figure
             img(src='@/assets/curso/tema2/05.png', alt='')
     
-    separador          
+    separador(data-aos="fade")        
 
 </template>
 

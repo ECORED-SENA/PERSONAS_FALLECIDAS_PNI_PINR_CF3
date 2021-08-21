@@ -66,7 +66,7 @@
         p.mb-0 El número de identificación de marcación de la tumba o bóveda donde ha sido inhumado el cadáver, con la indicación de si se trata de una tumba o bóveda individual o múltiple. 
       
       div(data-aos="fade-right")
-        p.mb-0 Para el caso de cadáveres que no han sido remitidos por la Fiscalía General de la Nación o por el Instituto Nacional de Medicina Legal y Ciencias Forenses indicación de las autoridades a las que se les comunicó el ingreso del cadáver al cementerio, fecha y medio de comunicación utilizado. 
+        p.mb-0 Para el caso de cadáveres que no han sido remitidos por la Fiscalía General de la Nación o por el Instituto Nacional de Medicina Legal y Ciencias Forenses, se requiere indicación de las autoridades a las que se les comunicó el ingreso del cadáver al cementerio, fecha y medio de comunicación utilizado. 
       
       div(data-aos="fade-left")
         p.mb-0 Información sobre el traslado o cambio de ubicación del cadáver dentro del cementerio, previa autorización emitida por la autoridad judicial competente. 
@@ -75,7 +75,7 @@
         p.mb-0 Identificación de la autoridad, cargo, nombre y firma del funcionario a quien se le entrega el cadáver y los elementos asociados al cuerpo, para casos de exhumación. 
       
       div(data-aos="fade-left")
-        p.mb-0 En caso de que posterior a su inhumación la autoridad competente comunique la obtención de la identificación del cadáver, se registrará el nombre completo y documento identidad del occiso. Los administradores de los cementerios propenderán por sistematizar la información a la que hace referencia este artículo.
+        p.mb-0 En caso de que posterior a su inhumación la autoridad competente comunique la obtención de la identificación del cadáver, se registrará el nombre completo y documento de identidad del occiso. Los administradores de los cementerios propenderán por sistematizar la información a la que hace referencia este artículo.
     
     .row.justify-content-center 
       .col-md-5.mb-5(data-aos="slide-left")
@@ -95,7 +95,7 @@
         .tarjeta-avatar-b.mb-4
           .tarjeta.tarjeta--gris.tarjMOD
             .p-4
-              p Se invita a leer la “Guía normativa para el fortalecimiento de la gestión de los cementerios en Colombia” desde la página 5 a la 17. En este documento liderado por el Ministerio del Interior de Colombia se presentan buenas prácticas para la adecuada conservación y custodia de los cuerpos o restos humanos de personas no identificadas e identificadas no reclamadas inhumadas en cementerios.
+              p Se invita a leer la “Guía normativa para el fortalecimiento de la gestión de los cementerios en Colombia” desde la página 5 a la 17. En este documento liderado por el Ministerio del Interior de Colombia. En ella se presentan se presentan buenas prácticas para la adecuada conservación y custodia de los cuerpos o restos humanos de personas no identificadas e identificadas no reclamadas inhumadas en cementerios.
           .tarjeta-avatar-b__img
             img.w-75.mx-auto(src='@/assets/curso/tema3/06.svg', alt='')
           

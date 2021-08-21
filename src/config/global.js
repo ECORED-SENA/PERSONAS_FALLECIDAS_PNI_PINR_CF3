@@ -85,48 +85,48 @@ export default {
   referencias: [
     {
       referencia:
-        'Decreto 303 de 2015. [Ministerio del Interior]. Por el cual se reglamenta la Ley 1408 de 2010. Febrero 20 de 2015.',
+        'Decreto 303 de 2015. [Ministerio del Interior]. Por el cual se reglamenta la Ley 1408 de 2010. Febrero 20 de 2015. ',
       link:
         'https://www.mininterior.gov.co/la-institucion/normatividad/decreto-303-de-2015',
     },
     {
       referencia:
-        'Ley 9 de 1979. Por la cual se dictan medidas sanitarias. Julio 16 de 1979. DO. No. 35308',
+        'Ley 9 de 1979. Por la cual se dictan medidas sanitarias. Julio 16 de 1979. DO. No. 35308. ',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_0009_1979.html',
     },
     {
       referencia:
-        'Ley 1408 de 2010. Por la cual se rinde homenaje a las víctimas del delito de desaparición forzada y se dictan medidas para su localización e identificación. Agosto 20 de 2010. DO No. 47.807',
+        'Ley 1408 de 2010. Por la cual se rinde homenaje a las víctimas del delito de desaparición forzada y se dictan medidas para su localización e identificación. Agosto 20 de 2010. DO No. 47.807. ',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_1408_2010.html',
     },
     {
       referencia:
-        'MediaLab Eafit. (2012). Fuera de foco: episodio 8: inhumación y exhumación de cuerpos [video]. YouTube:',
+        'MediaLab Eafit. (2012). Fuera de foco: episodio 8: inhumación y exhumación de cuerpos [video]. YouTube: ',
       link: 'https://www.youtube.com/watch?v=NrRgTQWahhA',
     },
     {
       referencia:
-        'Ministerio del Interior de Colombia. (2018). Guía normativa para el fortalecimiento de la gestión de los cementerios en Colombia. MinInterior.',
+        'Ministerio del Interior de Colombia. (2018). Guía normativa para el fortalecimiento de la gestión de los cementerios en Colombia. MinInterior. ',
       link:
         'https://derechoshumanos.mininterior.gov.co/sites/default/files/guia_normativa-2018_0.pdf',
     },
     {
       referencia:
-        'Resolución 01164 de 2002 [Ministerio del Medio Ambiente]. Por la cual se adopta el Manual de Procedimientos para la Gestión Integral de los residuos hospitalarios y similares.',
+        'Resolución 01164 de 2002 [Ministerio del Medio Ambiente]. Por la cual se adopta el Manual de Procedimientos para la Gestión Integral de los residuos hospitalarios y similares. ',
       link:
         'https://www.ins.gov.co/Normatividad/Resoluciones/RESOLUCION%201164%20DE%202002.pdf',
     },
     {
       referencia:
-        'Resolución 5194 de 2010. [Ministerio de la Protección Social]. Por la cual se reglamenta la prestación de los servicios de cementerios, inhumación, exhumación y cremación de cadáveres. Diciembre 10 de 2010.',
+        'Resolución 5194 de 2010. [Ministerio de la Protección Social]. Por la cual se reglamenta la prestación de los servicios de cementerios, inhumación, exhumación y cremación de cadáveres. Diciembre 10 de 2010. ',
       link:
         'https://tibasosaboyaca.micolombiadigital.gov.co/sites/tibasosaboyaca/content/files/000024/1155_resolucion-no-5194-de-16-de-diciembre-de-2010.pdf',
     },
     {
       referencia:
-        'Resolución 2184 de 2019. [Ministerio de Ambiente y Desarrollo Sostenible]. Por la cual se modifica la resolución 668 de 2016 sobre el uso racional de bolsas plásticas y se adoptan otras disposiciones. Diciembre 26 de 2019.',
+        'Resolución 2184 de 2019. [Ministerio de Ambiente y Desarrollo Sostenible]. Por la cual se modifica la resolución 668 de 2016 sobre el uso racional de bolsas plásticas y se adoptan otras disposiciones. Diciembre 26 de 2019. ',
       link:
         'https://www.minambiente.gov.co/images/normativa/app/resoluciones/res%202184%202019%20colores%20bolsas-41.pdf',
     },
@@ -205,12 +205,12 @@ export default {
       },
       {
         nombre: 'Adriana María Bustamante Cataño',
-        cargo: 'Profesional de Diseño y producción curricular',
+        cargo: 'Profesional de diseño y producción curricular',
         centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
         nombre: 'Cristian Metaute Medina',
-        cargo: 'Diseñador instrucciona',
+        cargo: 'Diseñador instruccional',
         centro: 'Grupo de gestión curricular ECORED',
       },
       {
@@ -245,7 +245,7 @@ export default {
       },
       {
         nombre: 'Diego Fernando Velasco Güiza',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

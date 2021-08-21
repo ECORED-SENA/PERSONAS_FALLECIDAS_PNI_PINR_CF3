@@ -204,6 +204,12 @@ export default {
         centro: 'Centro de Servicios de Salud - Regional Antioquia',
       },
       {
+        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
+        cargo:
+          'Instructora (EPC) – líder desarrollo curricular servicios personales',
+        centro: 'Centro de Servicios de Salud - Regional Antioquia',
+      },
+      {
         nombre: 'Adriana María Bustamante Cataño',
         cargo: 'Profesional de diseño y producción curricular',
         centro: 'Centro de Servicios de Salud - Regional Antioquia',
@@ -246,6 +252,12 @@ export default {
       {
         nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

@@ -46,7 +46,7 @@
       .row
         .col-md-5.mb-4.mb-md-0
           h4 Prohibición en la cremación
-          p En el Parágrafo 3 del Artículo 11 de la Ley 1408 de 2010 se establece expresamente, que las secretarías de gobierno o las autoridades de gobierno asegurarán que no se usarán osarios comunes #[i “ni se destruirán o incinerarán cuerpos o restos de personas no identificadas”].
+          p En el Parágrafo 3 del Artículo 11 de la Ley 1408 de 2010 se establece expresamente, que las Secretarías de Gobierno o las autoridades de Gobierno asegurarán que no se usarán osarios comunes #[i “ni se destruirán o incinerarán cuerpos o restos de personas no identificadas”].
 
           p Adicional a lo anterior, en el Artículo 37 del Decreto 303 de 2015 se expresa  que, con el fin de preservar los cadáveres no identificados o identificados no reclamados #[i “se prohíbe su cremación”]. 
       

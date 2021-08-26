@@ -29,7 +29,7 @@
       .py-4.py-md-5(titulo="Disposición de un área de inhumación" :icono="require('@/assets/curso/tema1/02.svg')")
         .row.justify-content-center
           h5 Disposición de un área de inhumación
-          p De acuerdo con la #[strong Resolución 5194 de 2010 del Ministerio de Protección Social] el área donde debe ser inhumado, conservado y custodiado el cuerpo o los restos humanos de las personas no identificadas o identificadas no reclamadas será dispuesto por la alcaldía del municipio o distrito donde se halla el cadáver, teniendo en cuenta dos elementos: 
+          p De acuerdo con la #[strong Resolución 5194 de 2010 del Ministerio de Protección Social] el área donde debe ser inhumado, conservado y custodiado el cuerpo o los restos humanos de las personas no identificadas o identificadas no reclamadas será dispuesto por la Alcaldía del municipio o distrito donde se halla el cadáver, teniendo en cuenta dos elementos: 
           .col-md-5.mb-4.mb-md-0
             .cajon.color-primario.p-4.h-100
               p.mb-4 (i) En los cementerios se deben destinar bóvedas para personas no identificadas o identificadas no reclamadas.
@@ -56,7 +56,7 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h4 Cementerios públicos o mixtos
-            p La inhumación de las personas no identificadas o personas identificadas no reclamadas se realiza en los cementerios de naturaleza pública o mixta; pero en caso de declararse una emergencia en la salud pública o que los cementerios de estas naturalezas no cuenten con la capacidad necesaria para realizar estas inhumaciones se podrá solicitar la inhumación en cementerios de naturaleza privada (Artículo18 de la Resolución 5194 de 2010).
+            p La inhumación de las personas no identificadas o personas identificadas no reclamadas se realiza en los cementerios de naturaleza pública o mixta; pero en caso de declararse una emergencia en la salud pública o que los cementerios de estas naturalezas no cuenten con la capacidad necesaria para realizar estas inhumaciones se podrá solicitar la inhumación en cementerios de naturaleza privada (Artículo 18 de la Resolución 5194 de 2010).
             
           .col-md-4
             figure
@@ -87,7 +87,7 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | La licencia de inhumación (documento) expedido por la alcaldía, la secretaría de salud o la inspección de policía.
+                | La licencia de inhumación (documento) expedido por la Alcaldía, la Secretaría de salud o la Inspección de policía.
               li 
                 i.fas.fa-check
                 | El acta de entrega del cadáver y el certificado de defunción,  los cuales serán entregados por Medicina Legal.

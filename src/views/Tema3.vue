@@ -95,7 +95,14 @@
         .tarjeta-avatar-b.mb-4
           .tarjeta.tarjeta--gris.tarjMOD
             .p-4
-              p Se invita a leer la “Guía normativa para el fortalecimiento de la gestión de los cementerios en Colombia” desde la página 5 a la 17. En este documento liderado por el Ministerio del Interior de Colombia. En ella se presentan se presentan buenas prácticas para la adecuada conservación y custodia de los cuerpos o restos humanos de personas no identificadas e identificadas no reclamadas inhumadas en cementerios.
+              p.mb-4 Se invita a leer la “Guía normativa para el fortalecimiento de la gestión de los cementerios en Colombia” desde la página 5 a la 17. En este documento liderado por el Ministerio del Interior de Colombia. En ella se presentan buenas prácticas para la adecuada conservación y custodia de los cuerpos o restos humanos de personas no identificadas e identificadas no reclamadas inhumadas en cementerios.
+              .row.justify-content-center
+                .col-lg-6
+                  a.anexo.BG07(href=('https://derechoshumanos.mininterior.gov.co/sites/default/files/guia_normativa-2018_0.pdf') target="_blank")
+                    .anexo__icono
+                      img(src="@/assets/template/icono-pdf.svg")
+                    .anexo__texto
+                      p PDF. para el fortalecimiento de la gestión de los cementerios en Colombia
           .tarjeta-avatar-b__img
             img.w-75.mx-auto(src='@/assets/curso/tema3/06.svg', alt='')
           
